@@ -1,0 +1,49 @@
+body {
+    font-family: Arial,Helvetica Neue,Helvetica,yandex-sans-rub-sign,sans-serif;
+}
+
+.cut {
+    font-size: 15px;
+    line-height: 21px;
+    padding-bottom: 1px;
+}
+
+.list-group-item-action {
+    width: auto;
+    color: #495057;
+    text-align: inherit;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(../assets/img/imgArrows/leftArrow.svg);
+}
+
+.carousel-control-next-icon {
+    background-image: url(../assets/img/imgArrows/rightArrow.svg);
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 20px;
+}
+
+.carousel-control-prev {
+    left: -35px;
+}
+
+.carousel-control-next {
+    right: -35px;
+}
+
+.carDescription {
+    font-size: 13px;
+}
+
+a.noneBlueLink,
+a.linkedCard,
+a.linkedCard:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
