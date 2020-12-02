@@ -1,7 +1,6 @@
 <template>
     <div class="vCarCatalog">
         <vHeader/>
-        <hr class="py-0"> 
         <div class="container px-0">
             <div class="row no-gutters pt-3"> <!--search cars-->
                 <div class="col-9">

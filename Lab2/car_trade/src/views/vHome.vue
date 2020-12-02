@@ -1,7 +1,6 @@
 <template>
     <div class="vHome">
         <vHeader/>
-        <hr class="py-0"> 
         <div class="container px-0">
             <div class="container px-0">
                 <div class="row no-gutters pt-3"> <!--search cars-->

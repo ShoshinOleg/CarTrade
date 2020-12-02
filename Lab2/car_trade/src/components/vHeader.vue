@@ -44,8 +44,9 @@
           <a class="dropdown-item" href="#">Объявления</a>
           <a class="dropdown-item" href="#">Отзывы</a>
         </div>
-      </div>
+      </div> 
     </div>
+    <hr class="py-0"> 
   </header>
 </template>
 
